@@ -1,4 +1,4 @@
-[![MasterHead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2022/02/Microsoft-dot-net-development.jpg)
+![MasterHead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2022/02/Microsoft-dot-net-development.jpg)
 <h1 align="center">Hi 👋, I'm Ali Can SARIBOĞA</h1>
 <h3 align="center">A passionate Full-Stack developer from Turkey.</h3>
 
