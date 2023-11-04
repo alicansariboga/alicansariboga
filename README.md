@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Can SARIBOĞA</h1>
 <h3 align="center">A passionate Full-Stack developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **.NET, ASP.NET, MVC and React.**
-
-- 💬 Ask me about **C# and .NET**
+- 🌱 I’m currently learning **.NET Core, Entity Framework and React.**
 
 - 📫 How to reach me **alicansariboga1@gmail.com**
 
