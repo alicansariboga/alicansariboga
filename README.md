@@ -1,16 +1,16 @@
 ![MasterHead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2022/02/Microsoft-dot-net-development.jpg)
 <h1 align="center">Hi 👋, I'm Ali Can SARIBOĞA</h1>
 <h5 align="left"><b></b>A passionate Full-Stack developer from Turkey.</b></h5>
-
+<br/>
 ## ✨ Little Bit More About Me
 <p> 📘 I am a senior student in Computer Engineering at Cukurova University in Turkey. </p>
 <p> 📌 I’m currently learning **.NET Core, Entity Framework and React.** </p>
 <p> 📱 I am interested in new technologies. </p>
-
+<br/>
 ## 📧 Contact With Me
 <p> 📫 How to reach me **alicansariboga1@gmail.com** </p> 
-<p> 📫 How to reach me **alicansariboga1@gmail.com** </p>- 
-
+<p> 📫 How to reach me **alicansariboga1@gmail.com** </p>
+<br/>
 ## ☑️ Connect With Me
 
 <p align="left">
@@ -24,7 +24,7 @@
   <a href="https://www.behance.net/alicansariboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alicansariboga" height="30" width="40" /></a>
   <a href="https://medium.com/@alicansariboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alicansariboga" height="30" width="40" /></a>
 </p>
-
+<br/>
 ## 💻 Languages and Tools
 
 <p class="skills" align="left"> 
@@ -41,7 +41,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 </p>
-
+<br/>
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&show_icons=true&layout=compact"/></p>
