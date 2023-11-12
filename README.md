@@ -36,6 +36,6 @@
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 </p>
 <h3 align="left">Github Status:</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga"&show_icons=true&locale=en&layout=compact/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&show_icons=true&layout=compact"/></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alicansariboga&show_icons=true&locale=en"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alicansariboga&show_icons=true"/></p>
