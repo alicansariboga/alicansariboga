@@ -1,13 +1,18 @@
 ![MasterHead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2022/02/Microsoft-dot-net-development.jpg)
 <h1 align="center">Hi 👋, I'm Ali Can SARIBOĞA</h1>
-<h3 align="center">A passionate Full-Stack developer from Turkey.</h3>
+<h5 align="left"><b></b>A passionate Full-Stack developer from Turkey.</b></h5>
 
-- 🌱 I’m currently learning **.NET Core, Entity Framework and React.**
+## ✨ Little Bit More About Me
+<p> 📘 I am a senior student in Computer Engineering at Cukurova University in Turkey. </p>
+<p> 📌 I’m currently learning **.NET Core, Entity Framework and React.** </p>
+<p> 📱 I am interested in new technologies. </p>
 
-- 📫 How to reach me **alicansariboga1@gmail.com**
-- 📫 How to reach me **alicansariboga1@gmail.com**
+## 📧 Contact With Me
+<p> 📫 How to reach me **alicansariboga1@gmail.com** </p> 
+<p> 📫 How to reach me **alicansariboga1@gmail.com** </p>- 
 
-<h3 align="left">Connect with me:</h3>
+## ☑️ Connect With Me
+
 <p align="left">
   <a href="https://dev.to/alicansariboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alicansariboga" height="30" width="40" /></a>
   <a href="https://twitter.com/alicnn01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alicnn01" height="30" width="40" /></a>
@@ -20,8 +25,9 @@
   <a href="https://medium.com/@alicansariboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alicansariboga" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+## 💻 Languages and Tools
+
+<p class="skills" align="left"> 
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -35,7 +41,9 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 </p>
-<h3 align="left">Github Status:</h3>
+
+## 📊 Github Status
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&show_icons=true&layout=compact"/></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alicansariboga&show_icons=true"/></p>
