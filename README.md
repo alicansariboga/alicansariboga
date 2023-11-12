@@ -9,7 +9,7 @@
 
 ## 📧 Contact With Me
 <p> 📫 How to reach me <b><a href="mailto:alicansariboga1@gmail.com" target="blank">E-mail</a></b> </p>   
-<p> 📫 How to reach me <b><a href="mailto:alicnn38@gmail.com" target="blank">E-mail(Other)</a></b> </p> <br>
+<p> 📫 How to reach me <b><a href="mailto:alicnn38@gmail.com" target="blank">E-mail (Other)</a></b> </p> <br>
 
 ## ☑️ Connect With Me
 
