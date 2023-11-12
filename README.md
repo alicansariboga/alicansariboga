@@ -3,13 +3,13 @@
 <h4 align="left"><b></b>A passionate Full-Stack developer from Turkey.</b></h5> <br>
 
 ## ✨ Little Bit More About Me
-<p> 📘 I am a senior student in Computer Engineering at Cukurova University in Turkey. </p>
-<p> 📌 I’m currently learning **.NET Core, Entity Framework and React.** </p>
-<p> 📱 I am interested in new technologies. </p> <br>
+<p> 📘 I’m a senior student in Computer Engineering at Cukurova University in Turkey. </p>
+<p> 📌 I’m currently learning <b>.NET Core, Entity Framework, and React.</b> </p>
+<p> 📱 I’m interested in new technologies. </p> <br>
 
 ## 📧 Contact With Me
-<p> 📫 How to reach me **alicansariboga1@gmail.com** </p> 
-<p> 📫 How to reach me **alicansariboga1@gmail.com** </p> <br>
+<p> 📫 How to reach me <b>alicansariboga1@gmail.com</b> </p> 
+<p> 📫 How to reach me <b>alicnn38@gmail.com</b> </p> <br>
 
 ## ☑️ Connect With Me
 
@@ -44,6 +44,6 @@
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&show_icons=true&layout=compact"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&show_icons=true&layout=compact"/></p> <br>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alicansariboga&show_icons=true"/></p>
