@@ -8,8 +8,8 @@
 <p> 📱 I’m interested in new technologies. </p> <br>
 
 ## 📧 Contact With Me
-<p> 📫 How to reach me <b><a href="alicansariboga1@gmail.com" target="blank">Mail 1</a></b> </p>   
-<p> 📫 How to reach me <b><a href="alicnn38@gmail.com" target="blank">Mail 2</a></b> </p> <br>
+<p> 📫 How to reach me <b><a href="mailto:alicansariboga1@gmail.com" target="blank">E-mail</a></b> </p>   
+<p> 📫 How to reach me <b><a href="mailto:alicnn38@gmail.com" target="blank">E-mail</a></b> </p> <br>
 
 ## ☑️ Connect With Me
 
