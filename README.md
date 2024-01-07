@@ -1,4 +1,4 @@
-![MasterHead]([https://www.weblineindia.com/wp-content/uploads/2016/07/dotnet-development-pros-and-cons.jpg])
+![dotnet-development-pros-and-cons](https://github.com/alicansariboga/alicansariboga/assets/23722313/888fde39-66e8-43cd-ac75-fde3972f17ef)
 <h1 align="center">Hi 👋, I'm Ali Can SARIBOĞA</h1>
 <h4 align="left"><b></b>A passionate Full-Stack developer from Turkey.</b></h5> <br>
 
