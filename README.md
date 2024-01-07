@@ -1,4 +1,4 @@
-![dotnet-development-pros-and-cons](https://github.com/alicansariboga/alicansariboga/assets/23722313/888fde39-66e8-43cd-ac75-fde3972f17ef)
+![dotnet_openings_cover](https://github.com/alicansariboga/alicansariboga/assets/23722313/390ee46f-499d-455f-b8dd-ffbcc3d5a216)
 <h1 align="center">Hi 👋, I'm Ali Can SARIBOĞA</h1>
 <h4 align="left"><b></b>A passionate Full-Stack developer from Turkey.</b></h5> <br>
 
