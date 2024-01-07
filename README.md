@@ -1,4 +1,4 @@
-![MasterHead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2022/02/Microsoft-dot-net-development.jpg)
+![MasterHead]([https://arka-live.s3.us-east-2.amazonaws.com/uploads/2022/02/Microsoft-dot-net-development.jpg](https://www.weblineindia.com/wp-content/uploads/2016/07/dotnet-development-pros-and-cons.jpg))
 <h1 align="center">Hi 👋, I'm Ali Can SARIBOĞA</h1>
 <h4 align="left"><b></b>A passionate Full-Stack developer from Turkey.</b></h5> <br>
 
