@@ -49,3 +49,5 @@
 ![alicansariboga's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alicansariboga&theme=vue-dark&hide_border=true)
 
 ![alicansariboga's Stats](https://github-readme-stats.vercel.app/api?username=alicansariboga&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+[![Ali Can SARIBOGA's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/alicansariboga)
