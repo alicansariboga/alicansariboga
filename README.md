@@ -43,7 +43,7 @@
 </p> <br>
 
 ## 📊 Github Status
-[![alicansariboga's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=vue-dark&show_icons=true)](https://github.com/alicansariboga)
+[![alicansariboga's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=vue-dark&show_icons=true&hide_border=true)](https://github.com/alicansariboga)
 
 ![alicansariboga's Last Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicansariboga&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
