@@ -44,6 +44,8 @@
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&show_icons=true&layout=compact"/></p> <br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicansariboga&show_icons=true&layout=compact"/></p> <be>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alicansariboga&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alicansariboga&show_icons=true"/></p>
