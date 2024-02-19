@@ -1,6 +1,6 @@
 ![dotnet_openings_cover](https://github.com/alicansariboga/alicansariboga/assets/23722313/390ee46f-499d-455f-b8dd-ffbcc3d5a216)
 <h1 align="center">Hi 👋, I'm Ali Can SARIBOĞA</h1>
-<h4 align="left"><b></b>A passionate Full-Stack developer from Turkey.</b></h5> <br>
+<h4 align="left"><b></b>A passionate Full-Stack developer from Turkey. I'm not giving up on my education in networking and firewalls. Linux is always better in every respect.</b></h5> <br>
 
 ## ✨ Little Bit More About Me
 <p> 📘 I’m a senior student in Computer Engineering at Cukurova University in Turkey. </p>
