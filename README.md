@@ -4,7 +4,7 @@
 
 ## ✨ Little Bit More About Me
 <p> 📘 I’m a senior student in Computer Engineering at Cukurova University in Turkey. </p>
-<p> 📌 I’m currently working on <b>.NET Core 7 and 8, Onion Architecture, CQRS, Mediatr, and REST API</b>. Besides that, <b>I'm learning N-Tier Architecture, Repository pattern design, SOAP, and SOLID principles.</b> </p>
+<p> 📌 I’m currently working on <b>.NET Core 7 and 8, Onion Architecture, CQRS, Mediatr, and REST API</b>. Besides that, I'm learning <b>N-Tier Architecture, Repository pattern design, SOAP, and SOLID principles.</b> </p>
 <p> 📱 I’m interested in new technologies. </p> <br>
 
 ## 📧 Contact With Me
